@@ -1,4 +1,4 @@
-# 🧱 Dev-Stack-assignment
+# 🧱 Dev-Stack
 
 Dev-Stack-assignment is web Application where a user can explore the technogies and build their tach stack can choose tech stack separe as they want and they can see their market demand and they can remove each element individually as they want !
 
